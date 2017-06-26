@@ -12,7 +12,7 @@ def parse_color_file(filename):
             if not line == '' and not line.startswith('#'):
                 key, value = [x.strip() for x in line.split('=')]
                 r, g, b = [x.strip(',') for x in value.split()]
-                def_colors[key] = Color(r, g, b, key)
+                def_colors[key] = Color((r, g, b), key)
     return def_colors
 
 
