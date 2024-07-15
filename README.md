@@ -1,8 +1,8 @@
 Simple Python code to generate OPI files for CS-Studio.
 
-[![Build Status](https://travis-ci.org/dls-controls/cssgen.svg?branch=master)](https://travis-ci.org/dls-controls/cssgen)
-[![Coverage Status](https://coveralls.io/repos/github/dls-controls/cssgen/badge.svg?branch=master)](https://coveralls.io/github/dls-controls/cssgen?branch=master)
-[![Health](https://landscape.io/github/dls-controls/cssgen/master/landscape.svg?style=flat)](https://landscape.io/github/dls-controls/cssgen/master)
+[![Build Status](https://travis-ci.org/DiamondLightSource/cssgen.svg?branch=master)](https://travis-ci.org/DiamondLightSource/cssgen)
+[![Coverage Status](https://coveralls.io/repos/github/DiamondLightSource/cssgen/badge.svg?branch=master)](https://coveralls.io/github/DiamondLightSource/cssgen?branch=master)
+[![Health](https://landscape.io/github/DiamondLightSource/cssgen/master/landscape.svg?style=flat)](https://landscape.io/github/DiamondLightSource/cssgen/master)
 [![Documentation Status](https://readthedocs.org/projects/cssgen/badge/?version=latest)](http://cssgen.readthedocs.io/en/latest/?badge=latest)
 
 ## User guide

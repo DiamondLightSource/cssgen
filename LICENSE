@@ -27,13 +27,13 @@
 
   <meta name="viewport" content="width=device-width">
   
-  <title>pymalcolm/LICENSE at master · dls-controls/pymalcolm</title>
+  <title>pymalcolm/LICENSE at master · DiamondLightSource/pymalcolm</title>
   <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
   <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
   <meta property="fb:app_id" content="1401488693436528">
 
     
-    <meta content="https://avatars2.githubusercontent.com/u/8448831?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="dls-controls/pymalcolm" property="og:title" /><meta content="https://github.com/dls-controls/pymalcolm" property="og:url" /><meta content="pymalcolm - Scanning in the middlelayer, v2" property="og:description" />
+    <meta content="https://avatars2.githubusercontent.com/u/8448831?v=3&amp;s=400" property="og:image" /><meta content="GitHub" property="og:site_name" /><meta content="object" property="og:type" /><meta content="DiamondLightSource/pymalcolm" property="og:title" /><meta content="https://github.com/DiamondLightSource/pymalcolm" property="og:url" /><meta content="pymalcolm - Scanning in the middlelayer, v2" property="og:description" />
 
   <link rel="assets" href="https://assets-cdn.github.com/">
   <link rel="web-socket" href="wss://live.github.com/_sockets/VjI6MTEzMzg1NjI5OjM0YTBjMzMxMDcyYzUyMGViOWUwYjMxOGVmZTI4MGFiNjIzOTZhOWY3OGM1YTZkYTM0ODg0ZDRhYjEwMThlM2U=--0a5bb27a5c6959893c773b0a5417a7ebfa5a76b5">
@@ -71,15 +71,15 @@
   <meta http-equiv="x-pjax-version" content="7039cffd56d59000fe2f72ed257ce22a">
   
 
-      <link href="https://github.com/dls-controls/pymalcolm/commits/master.atom" rel="alternate" title="Recent Commits to pymalcolm:master" type="application/atom+xml">
+      <link href="https://github.com/DiamondLightSource/pymalcolm/commits/master.atom" rel="alternate" title="Recent Commits to pymalcolm:master" type="application/atom+xml">
 
   <meta name="description" content="pymalcolm - Scanning in the middlelayer, v2">
-  <meta name="go-import" content="github.com/dls-controls/pymalcolm git https://github.com/dls-controls/pymalcolm.git">
+  <meta name="go-import" content="github.com/DiamondLightSource/pymalcolm git https://github.com/DiamondLightSource/pymalcolm.git">
 
-  <meta content="8448831" name="octolytics-dimension-user_id" /><meta content="dls-controls" name="octolytics-dimension-user_login" /><meta content="51362478" name="octolytics-dimension-repository_id" /><meta content="dls-controls/pymalcolm" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="51362478" name="octolytics-dimension-repository_network_root_id" /><meta content="dls-controls/pymalcolm" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
+  <meta content="8448831" name="octolytics-dimension-user_id" /><meta content="DiamondLightSource" name="octolytics-dimension-user_login" /><meta content="51362478" name="octolytics-dimension-repository_id" /><meta content="DiamondLightSource/pymalcolm" name="octolytics-dimension-repository_nwo" /><meta content="true" name="octolytics-dimension-repository_public" /><meta content="false" name="octolytics-dimension-repository_is_fork" /><meta content="51362478" name="octolytics-dimension-repository_network_root_id" /><meta content="DiamondLightSource/pymalcolm" name="octolytics-dimension-repository_network_root_nwo" /><meta content="false" name="octolytics-dimension-repository_explore_github_marketplace_ci_cta_shown" />
 
 
-    <link rel="canonical" href="https://github.com/dls-controls/pymalcolm/blob/master/LICENSE" data-pjax-transient>
+    <link rel="canonical" href="https://github.com/DiamondLightSource/pymalcolm/blob/master/LICENSE" data-pjax-transient>
 
 
   <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
@@ -119,9 +119,9 @@
 
 
         <div class="header-search scoped-search site-scoped-search js-site-search" role="search">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dls-controls/pymalcolm/search" class="js-site-search-form" data-scoped-search-url="/dls-controls/pymalcolm/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
+  <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DiamondLightSource/pymalcolm/search" class="js-site-search-form" data-scoped-search-url="/DiamondLightSource/pymalcolm/search" data-unscoped-search-url="/search" method="get"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /></div>
     <label class="form-control header-search-wrapper js-chromeless-input-container">
-        <a href="/dls-controls/pymalcolm/blob/master/LICENSE" class="header-search-scope no-underline">This repository</a>
+        <a href="/DiamondLightSource/pymalcolm/blob/master/LICENSE" class="header-search-scope no-underline">This repository</a>
       <input type="text"
         class="form-control header-search-input js-site-search-focus js-site-search-field is-clearable"
         data-hotkey="s"
@@ -198,9 +198,9 @@
 
   <div class="dropdown-divider"></div>
   <div class="dropdown-header">
-    <span title="dls-controls/pymalcolm">This repository</span>
+    <span title="DiamondLightSource/pymalcolm">This repository</span>
   </div>
-    <a class="dropdown-item" href="/dls-controls/pymalcolm/issues/new" data-ga-click="Header, create new issue">
+    <a class="dropdown-item" href="/DiamondLightSource/pymalcolm/issues/new" data-ga-click="Header, create new issue">
       New issue
     </a>
 
@@ -292,7 +292,7 @@
         <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Oz/Q91I7l2RcV6ZstolzKZvtG0DmnwmHqF65DvsVP0GCBcsLidVKnAtOvuSHzf2i0GJUT4s5xbdUnFGCk7xGZg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="51362478" />
 
         <div class="select-menu js-menu-container js-select-menu">
-          <a href="/dls-controls/pymalcolm/subscription"
+          <a href="/DiamondLightSource/pymalcolm/subscription"
             class="btn btn-sm btn-with-count select-menu-button js-menu-target"
             role="button"
             aria-haspopup="true"
@@ -305,7 +305,7 @@
             </span>
           </a>
             <a class="social-count js-social-count"
-              href="/dls-controls/pymalcolm/watchers"
+              href="/DiamondLightSource/pymalcolm/watchers"
               aria-label="7 users are watching this repository">
               7
             </a>
@@ -368,30 +368,30 @@
 
   <li>
       <div class="js-toggler-container js-social-container starring-container ">
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dls-controls/pymalcolm/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gp5pHPepnCmkPXlELzmzEIWhezXh9zf0Niwibyoo2C8UJgsD4wxZt4bysDgFWpLi7TypY8BpeS+J2Rsxoth0ww==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DiamondLightSource/pymalcolm/unstar" class="starred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="gp5pHPepnCmkPXlELzmzEIWhezXh9zf0Niwibyoo2C8UJgsD4wxZt4bysDgFWpLi7TypY8BpeS+J2Rsxoth0ww==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Unstar this repository" title="Unstar dls-controls/pymalcolm"
+        aria-label="Unstar this repository" title="Unstar DiamondLightSource/pymalcolm"
         data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Unstar
       </button>
-        <a class="social-count js-social-count" href="/dls-controls/pymalcolm/stargazers"
+        <a class="social-count js-social-count" href="/DiamondLightSource/pymalcolm/stargazers"
            aria-label="1 user starred this repository">
           1
         </a>
 </form>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dls-controls/pymalcolm/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pX8Tni4gEkGVGHdrTm+JHD6PQa5XhZu2fP7JoGXqqpry87mW/IWD1LTUKRmyZmHzfMHX9jpJo8aR45D5awsg1Q==" /></div>
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DiamondLightSource/pymalcolm/star" class="unstarred" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="pX8Tni4gEkGVGHdrTm+JHD6PQa5XhZu2fP7JoGXqqpry87mW/IWD1LTUKRmyZmHzfMHX9jpJo8aR45D5awsg1Q==" /></div>
       <button
         type="submit"
         class="btn btn-sm btn-with-count js-toggler-target"
-        aria-label="Star this repository" title="Star dls-controls/pymalcolm"
+        aria-label="Star this repository" title="Star DiamondLightSource/pymalcolm"
         data-ga-click="Repository, click star button, action:blob#show; text:Star">
         <svg aria-hidden="true" class="octicon octicon-star" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 6l-4.9-.64L7 1 4.9 5.36 0 6l3.6 3.26L2.67 14 7 11.67 11.33 14l-.93-4.74z"/></svg>
         Star
       </button>
-        <a class="social-count js-social-count" href="/dls-controls/pymalcolm/stargazers"
+        <a class="social-count js-social-count" href="/DiamondLightSource/pymalcolm/stargazers"
            aria-label="1 user starred this repository">
           1
         </a>
@@ -401,8 +401,8 @@
 
   <li>
           <a href="#fork-destination-box" class="btn btn-sm btn-with-count"
-              title="Fork your own copy of dls-controls/pymalcolm to your account"
-              aria-label="Fork your own copy of dls-controls/pymalcolm to your account"
+              title="Fork your own copy of DiamondLightSource/pymalcolm to your account"
+              aria-label="Fork your own copy of DiamondLightSource/pymalcolm to your account"
               rel="facebox"
               data-ga-click="Repository, show fork modal, action:blob#show; text:Fork">
               <svg aria-hidden="true" class="octicon octicon-repo-forked" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M8 1a1.993 1.993 0 0 0-1 3.72V6L5 8 3 6V4.72A1.993 1.993 0 0 0 2 1a1.993 1.993 0 0 0-1 3.72V6.5l3 3v1.78A1.993 1.993 0 0 0 5 15a1.993 1.993 0 0 0 1-3.72V9.5l3-3V4.72A1.993 1.993 0 0 0 8 1zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3 10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm3-10c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
@@ -413,12 +413,12 @@
             <h2 class="facebox-header" data-facebox-id="facebox-header">Where should we fork this repository?</h2>
             <include-fragment src=""
                 class="js-fork-select-fragment fork-select-fragment"
-                data-url="/dls-controls/pymalcolm/fork?fragment=1">
+                data-url="/DiamondLightSource/pymalcolm/fork?fragment=1">
               <img alt="Loading" height="64" src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" width="64" />
             </include-fragment>
           </div>
 
-    <a href="/dls-controls/pymalcolm/network" class="social-count"
+    <a href="/DiamondLightSource/pymalcolm/network" class="social-count"
        aria-label="4 users forked this repository">
       4
     </a>
@@ -427,9 +427,9 @@
 
         <h1 class="public ">
   <svg aria-hidden="true" class="octicon octicon-repo" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M4 9H3V8h1v1zm0-3H3v1h1V6zm0-2H3v1h1V4zm0-2H3v1h1V2zm8-1v12c0 .55-.45 1-1 1H6v2l-1.5-1.5L3 16v-2H1c-.55 0-1-.45-1-1V1c0-.55.45-1 1-1h10c.55 0 1 .45 1 1zm-1 10H1v2h2v-1h3v1h5v-2zm0-10H2v9h9V1z"/></svg>
-  <span class="author" itemprop="author"><a href="/dls-controls" class="url fn" rel="author">dls-controls</a></span><!--
+  <span class="author" itemprop="author"><a href="/DiamondLightSource" class="url fn" rel="author">DiamondLightSource</a></span><!--
 --><span class="path-divider">/</span><!--
---><strong itemprop="name"><a href="/dls-controls/pymalcolm" data-pjax="#js-repo-pjax-container">pymalcolm</a></strong>
+--><strong itemprop="name"><a href="/DiamondLightSource/pymalcolm" data-pjax="#js-repo-pjax-container">pymalcolm</a></strong>
 
 </h1>
 
@@ -443,14 +443,14 @@
      data-pjax="#js-repo-pjax-container">
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/dls-controls/pymalcolm" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /dls-controls/pymalcolm" itemprop="url">
+    <a href="/DiamondLightSource/pymalcolm" class="js-selected-navigation-item selected reponav-item" data-hotkey="g c" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches /DiamondLightSource/pymalcolm" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-code" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M9.5 3L8 4.5 11.5 8 8 11.5 9.5 13 14 8 9.5 3zm-5 0L0 8l4.5 5L6 11.5 2.5 8 6 4.5 4.5 3z"/></svg>
       <span itemprop="name">Code</span>
       <meta itemprop="position" content="1">
 </a>  </span>
 
     <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-      <a href="/dls-controls/pymalcolm/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /dls-controls/pymalcolm/issues" itemprop="url">
+      <a href="/DiamondLightSource/pymalcolm/issues" class="js-selected-navigation-item reponav-item" data-hotkey="g i" data-selected-links="repo_issues repo_labels repo_milestones /DiamondLightSource/pymalcolm/issues" itemprop="url">
         <svg aria-hidden="true" class="octicon octicon-issue-opened" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M7 2.3c3.14 0 5.7 2.56 5.7 5.7s-2.56 5.7-5.7 5.7A5.71 5.71 0 0 1 1.3 8c0-3.14 2.56-5.7 5.7-5.7zM7 1C3.14 1 0 4.14 0 8s3.14 7 7 7 7-3.14 7-7-3.14-7-7-7zm1 3H6v5h2V4zm0 6H6v2h2v-2z"/></svg>
         <span itemprop="name">Issues</span>
         <span class="Counter">1</span>
@@ -458,23 +458,23 @@
 </a>    </span>
 
   <span itemscope itemtype="http://schema.org/ListItem" itemprop="itemListElement">
-    <a href="/dls-controls/pymalcolm/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /dls-controls/pymalcolm/pulls" itemprop="url">
+    <a href="/DiamondLightSource/pymalcolm/pulls" class="js-selected-navigation-item reponav-item" data-hotkey="g p" data-selected-links="repo_pulls /DiamondLightSource/pymalcolm/pulls" itemprop="url">
       <svg aria-hidden="true" class="octicon octicon-git-pull-request" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 11.28V5c-.03-.78-.34-1.47-.94-2.06C9.46 2.35 8.78 2.03 8 2H7V0L4 3l3 3V4h1c.27.02.48.11.69.31.21.2.3.42.31.69v6.28A1.993 1.993 0 0 0 10 15a1.993 1.993 0 0 0 1-3.72zm-1 2.92c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zM4 3c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v6.56A1.993 1.993 0 0 0 2 15a1.993 1.993 0 0 0 1-3.72V4.72c.59-.34 1-.98 1-1.72zm-.8 10c0 .66-.55 1.2-1.2 1.2-.65 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2zM2 4.2C1.34 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
       <span itemprop="name">Pull requests</span>
       <span class="Counter">1</span>
       <meta itemprop="position" content="3">
 </a>  </span>
 
-    <a href="/dls-controls/pymalcolm/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /dls-controls/pymalcolm/projects">
+    <a href="/DiamondLightSource/pymalcolm/projects" class="js-selected-navigation-item reponav-item" data-selected-links="repo_projects new_repo_project repo_project /DiamondLightSource/pymalcolm/projects">
       <svg aria-hidden="true" class="octicon octicon-project" height="16" version="1.1" viewBox="0 0 15 16" width="15"><path fill-rule="evenodd" d="M10 12h3V2h-3v10zm-4-2h3V2H6v8zm-4 4h3V2H2v12zm-1 1h13V1H1v14zM14 0H1a1 1 0 0 0-1 1v14a1 1 0 0 0 1 1h13a1 1 0 0 0 1-1V1a1 1 0 0 0-1-1z"/></svg>
       Projects
       <span class="Counter" >0</span>
 </a>
-    <a href="/dls-controls/pymalcolm/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /dls-controls/pymalcolm/wiki">
+    <a href="/DiamondLightSource/pymalcolm/wiki" class="js-selected-navigation-item reponav-item" data-hotkey="g w" data-selected-links="repo_wiki /DiamondLightSource/pymalcolm/wiki">
       <svg aria-hidden="true" class="octicon octicon-book" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M3 5h4v1H3V5zm0 3h4V7H3v1zm0 2h4V9H3v1zm11-5h-4v1h4V5zm0 2h-4v1h4V7zm0 2h-4v1h4V9zm2-6v9c0 .55-.45 1-1 1H9.5l-1 1-1-1H2c-.55 0-1-.45-1-1V3c0-.55.45-1 1-1h5.5l1 1 1-1H15c.55 0 1 .45 1 1zm-8 .5L7.5 3H2v9h6V3.5zm7-.5H9.5l-.5.5V12h6V3z"/></svg>
       Wiki
 </a>
-      <a href="/dls-controls/pymalcolm/settings" class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations /dls-controls/pymalcolm/settings">
+      <a href="/DiamondLightSource/pymalcolm/settings" class="js-selected-navigation-item reponav-item" data-selected-links="repo_settings repo_branch_settings hooks integration_installations /DiamondLightSource/pymalcolm/settings">
         <svg aria-hidden="true" class="octicon octicon-gear" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M14 8.77v-1.6l-1.94-.64-.45-1.09.88-1.84-1.13-1.13-1.81.91-1.09-.45-.69-1.92h-1.6l-.63 1.94-1.11.45-1.84-.88-1.13 1.13.91 1.81-.45 1.09L0 7.23v1.59l1.94.64.45 1.09-.88 1.84 1.13 1.13 1.81-.91 1.09.45.69 1.92h1.59l.63-1.94 1.11-.45 1.84.88 1.13-1.13-.92-1.81.47-1.09L14 8.75v.02zM7 11c-1.66 0-3-1.34-3-3s1.34-3 3-3 3 1.34 3 3-1.34 3-3 3z"/></svg>
         Settings
 </a>
@@ -485,15 +485,15 @@
       </button>
       <div class="dropdown-menu-content js-menu-content">
         <div class="dropdown-menu dropdown-menu-sw">
-            <a class="dropdown-item" href="/dls-controls/pymalcolm/community" data-skip-pjax>
+            <a class="dropdown-item" href="/DiamondLightSource/pymalcolm/community" data-skip-pjax>
               <svg aria-hidden="true" class="octicon octicon-heart" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11.2 3c-.52-.63-1.25-.95-2.2-1-.97 0-1.69.42-2.2 1-.51.58-.78.92-.8 1-.02-.08-.28-.42-.8-1-.52-.58-1.17-1-2.2-1-.95.05-1.69.38-2.2 1-.52.61-.78 1.28-.8 2 0 .52.09 1.52.67 2.67C1.25 8.82 3.01 10.61 6 13c2.98-2.39 4.77-4.17 5.34-5.33C11.91 6.51 12 5.5 12 5c-.02-.72-.28-1.39-.8-2.02V3z"/></svg>
               <span itemprop="name">Community</span>
             </a>
-          <a class="dropdown-item" href="/dls-controls/pymalcolm/pulse" data-skip-pjax>
+          <a class="dropdown-item" href="/DiamondLightSource/pymalcolm/pulse" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-pulse" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M11.5 8L8.8 5.4 6.6 8.5 5.5 1.6 2.38 8H0v2h3.6l.9-1.8.9 5.4L9 8.5l1.6 1.5H14V8z"/></svg>
             Pulse
           </a>
-          <a class="dropdown-item" href="/dls-controls/pymalcolm/graphs" data-skip-pjax>
+          <a class="dropdown-item" href="/DiamondLightSource/pymalcolm/graphs" data-skip-pjax>
             <svg aria-hidden="true" class="octicon octicon-graph" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M16 14v1H0V0h1v14h15zM5 13H3V8h2v5zm4 0H7V3h2v10zm4 0h-2V6h2v7z"/></svg>
             Graphs
           </a>
@@ -509,7 +509,7 @@
   <div class="repository-content">
 
     
-  <a href="/dls-controls/pymalcolm/blob/aa6b4f29738cfb97f20c38d5c368005e9cce7641/LICENSE" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+  <a href="/DiamondLightSource/pymalcolm/blob/aa6b4f29738cfb97f20c38d5c368005e9cce7641/LICENSE" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
   <!-- blob contrib key: blob_contributors:v21:8bf90e18d18883844655073278da7d88 -->
 
@@ -553,7 +553,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/excalibur/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/excalibur/LICENSE"
                data-name="excalibur"
                data-skip-pjax="true"
                rel="nofollow">
@@ -563,7 +563,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/i08-integration/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/i08-integration/LICENSE"
                data-name="i08-integration"
                data-skip-pjax="true"
                rel="nofollow">
@@ -573,7 +573,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/i14-integration/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/i14-integration/LICENSE"
                data-name="i14-integration"
                data-skip-pjax="true"
                rel="nofollow">
@@ -583,7 +583,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/i18-caputs_do-not-merge/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/i18-caputs_do-not-merge/LICENSE"
                data-name="i18-caputs_do-not-merge"
                data-skip-pjax="true"
                rel="nofollow">
@@ -593,7 +593,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/i18-integration_do-not-merge/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/i18-integration_do-not-merge/LICENSE"
                data-name="i18-integration_do-not-merge"
                data-skip-pjax="true"
                rel="nofollow">
@@ -603,7 +603,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/ixxdetector-profile-compatibility/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/ixxdetector-profile-compatibility/LICENSE"
                data-name="ixxdetector-profile-compatibility"
                data-skip-pjax="true"
                rel="nofollow">
@@ -613,7 +613,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/dls-controls/pymalcolm/blob/master/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/master/LICENSE"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -623,7 +623,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/min-turnaround-fix/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/min-turnaround-fix/LICENSE"
                data-name="min-turnaround-fix"
                data-skip-pjax="true"
                rel="nofollow">
@@ -633,7 +633,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/dls-controls/pymalcolm/blob/refactor/LICENSE"
+               href="/DiamondLightSource/pymalcolm/blob/refactor/LICENSE"
                data-name="refactor"
                data-skip-pjax="true"
                rel="nofollow">
@@ -644,7 +644,7 @@
             </a>
         </div>
 
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dls-controls/pymalcolm/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YOlFSK6BFiOBc6YDldysBmzOqCl80EZ6noJ0qlUoR7VXD0iMOpiEACbwgPJgy9prcxTKTzNctQvvdVD3cHoYSQ==" /></div>
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DiamondLightSource/pymalcolm/branches" class="js-create-branch select-menu-item select-menu-new-item-form js-navigation-item js-new-item-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="YOlFSK6BFiOBc6YDldysBmzOqCl80EZ6noJ0qlUoR7VXD0iMOpiEACbwgPJgy9prcxTKTzNctQvvdVD3cHoYSQ==" /></div>
           <svg aria-hidden="true" class="octicon octicon-git-branch select-menu-item-icon" height="16" version="1.1" viewBox="0 0 10 16" width="10"><path fill-rule="evenodd" d="M10 5c0-1.11-.89-2-2-2a1.993 1.993 0 0 0-1 3.72v.3c-.02.52-.23.98-.63 1.38-.4.4-.86.61-1.38.63-.83.02-1.48.16-2 .45V4.72a1.993 1.993 0 0 0-1-3.72C.88 1 0 1.89 0 3a2 2 0 0 0 1 1.72v6.56c-.59.35-1 .99-1 1.72 0 1.11.89 2 2 2 1.11 0 2-.89 2-2 0-.53-.2-1-.53-1.36.09-.06.48-.41.59-.47.25-.11.56-.17.94-.17 1.05-.05 1.95-.45 2.75-1.25S8.95 7.77 9 6.73h-.02C9.59 6.37 10 5.73 10 5zM2 1.8c.66 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2C1.35 4.2.8 3.65.8 3c0-.65.55-1.2 1.2-1.2zm0 12.41c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2zm6-8c-.66 0-1.2-.55-1.2-1.2 0-.65.55-1.2 1.2-1.2.65 0 1.2.55 1.2 1.2 0 .65-.55 1.2-1.2 1.2z"/></svg>
             <div class="select-menu-item-text">
               <span class="select-menu-item-heading">Create branch: <span class="js-new-item-name"></span></span>
@@ -661,7 +661,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/dls-controls/pymalcolm/tree/2.0a1/LICENSE"
+              href="/DiamondLightSource/pymalcolm/tree/2.0a1/LICENSE"
               data-name="2.0a1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -671,7 +671,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/dls-controls/pymalcolm/tree/2-0a6/LICENSE"
+              href="/DiamondLightSource/pymalcolm/tree/2-0a6/LICENSE"
               data-name="2-0a6"
               data-skip-pjax="true"
               rel="nofollow">
@@ -681,7 +681,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/dls-controls/pymalcolm/tree/2-0a5/LICENSE"
+              href="/DiamondLightSource/pymalcolm/tree/2-0a5/LICENSE"
               data-name="2-0a5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -691,7 +691,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/dls-controls/pymalcolm/tree/2-0a4/LICENSE"
+              href="/DiamondLightSource/pymalcolm/tree/2-0a4/LICENSE"
               data-name="2-0a4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -701,7 +701,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/dls-controls/pymalcolm/tree/2-0a3/LICENSE"
+              href="/DiamondLightSource/pymalcolm/tree/2-0a3/LICENSE"
               data-name="2-0a3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -711,7 +711,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/dls-controls/pymalcolm/tree/2-0a2/LICENSE"
+              href="/DiamondLightSource/pymalcolm/tree/2-0a2/LICENSE"
               data-name="2-0a2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -730,7 +730,7 @@
 </div>
 
     <div class="BtnGroup float-right">
-      <a href="/dls-controls/pymalcolm/find/master"
+      <a href="/DiamondLightSource/pymalcolm/find/master"
             class="js-pjax-capture-input btn btn-sm BtnGroup-item"
             data-pjax
             data-hotkey="t">
@@ -739,7 +739,7 @@
       <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
     </div>
     <div class="breadcrumb js-zeroclipboard-target">
-      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/dls-controls/pymalcolm"><span>pymalcolm</span></a></span></span><span class="separator">/</span><strong class="final-path">LICENSE</strong>
+      <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/DiamondLightSource/pymalcolm"><span>pymalcolm</span></a></span></span><span class="separator">/</span><strong class="final-path">LICENSE</strong>
     </div>
   </div>
 
@@ -747,7 +747,7 @@
   <div class="col-6 float-left p-2 pt-3">
     <svg aria-hidden="true" class="octicon octicon-law license-summary-octicon float-left mr-2" height="32" version="1.1" viewBox="0 0 14 16" width="28"><path fill-rule="evenodd" d="M7 4c-.83 0-1.5-.67-1.5-1.5S6.17 1 7 1s1.5.67 1.5 1.5S7.83 4 7 4zm7 6c0 1.11-.89 2-2 2h-1c-1.11 0-2-.89-2-2l2-4h-1c-.55 0-1-.45-1-1H8v8c.42 0 1 .45 1 1h1c.42 0 1 .45 1 1H3c0-.55.58-1 1-1h1c0-.55.58-1 1-1h.03L6 5H5c0 .55-.45 1-1 1H3l2 4c0 1.11-.89 2-2 2H2c-1.11 0-2-.89-2-2l2-4H1V5h3c0-.55.45-1 1-1h4c.55 0 1 .45 1 1h3v1h-1l2 4zM2.5 7L1 10h3L2.5 7zM13 10l-1.5-3-1.5 3h3z"/></svg>
     <p class="text-small text-gray mb-0 lh-condensed-ultra">
-      dls-controls/pymalcolm is licensed under the
+      DiamondLightSource/pymalcolm is licensed under the
     </p>
     <h4 class="mt-0 mb-2">Apache License 2.0</h4>
     <p class="mb-0 text-gray text-small pr-2">A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code.</p>
@@ -851,7 +851,7 @@
   
   <div class="commit-tease">
       <span class="float-right">
-        <a class="commit-tease-sha" href="/dls-controls/pymalcolm/commit/16f189c9fe0a18abb4ae76fc42fe0cd09d1d08e9" data-pjax>
+        <a class="commit-tease-sha" href="/DiamondLightSource/pymalcolm/commit/16f189c9fe0a18abb4ae76fc42fe0cd09d1d08e9" data-pjax>
           16f189c
         </a>
         <relative-time datetime="2016-02-09T11:21:37Z">Feb 9, 2016</relative-time>
@@ -859,7 +859,7 @@
       <div>
         <img alt="@thomascobb" class="avatar" height="20" src="https://avatars0.githubusercontent.com/u/7705060?v=3&amp;s=40" width="20" />
         <a href="/thomascobb" class="user-mention" rel="contributor">thomascobb</a>
-          <a href="/dls-controls/pymalcolm/commit/16f189c9fe0a18abb4ae76fc42fe0cd09d1d08e9" class="message" data-pjax="true" title="Initial commit">Initial commit</a>
+          <a href="/DiamondLightSource/pymalcolm/commit/16f189c9fe0a18abb4ae76fc42fe0cd09d1d08e9" class="message" data-pjax="true" title="Initial commit">Initial commit</a>
       </div>
 
     <div class="commit-tease-contributors">
@@ -886,18 +886,18 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/dls-controls/pymalcolm/raw/master/LICENSE" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/dls-controls/pymalcolm/blame/master/LICENSE" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
-      <a href="/dls-controls/pymalcolm/commits/master/LICENSE" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/DiamondLightSource/pymalcolm/raw/master/LICENSE" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/DiamondLightSource/pymalcolm/blame/master/LICENSE" class="btn btn-sm js-update-url-with-hash BtnGroup-item" data-hotkey="b">Blame</a>
+      <a href="/DiamondLightSource/pymalcolm/commits/master/LICENSE" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
 
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dls-controls/pymalcolm/edit/master/LICENSE" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="P3Sk1heTXqT60e40dK6y+ulb3KSoTFe2MAK4o4drjO6yhMFjO7lRgAxXP/rGYPj4YJ40isSY5hQeTY7KDVqG0Q==" /></div>
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DiamondLightSource/pymalcolm/edit/master/LICENSE" class="inline-form js-update-url-with-hash" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="P3Sk1heTXqT60e40dK6y+ulb3KSoTFe2MAK4o4drjO6yhMFjO7lRgAxXP/rGYPj4YJ40isSY5hQeTY7KDVqG0Q==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Edit this file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path fill-rule="evenodd" d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"/></svg>
           </button>
-</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/dls-controls/pymalcolm/delete/master/LICENSE" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vUXpB+gBhYCOEoxWtV4UOjjRf3vDGqLMlrpUQcQhPJUjfIpw+5NICpN+eiROLuH2UqAH45nqx5wAfM/VrLP75w==" /></div>
+</form>        <!-- '"` --><!-- </textarea></xmp> --></option></form><form accept-charset="UTF-8" action="/DiamondLightSource/pymalcolm/delete/master/LICENSE" class="inline-form" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="vUXpB+gBhYCOEoxWtV4UOjjRf3vDGqLMlrpUQcQhPJUjfIpw+5NICpN+eiROLuH2UqAH45nqx5wAfM/VrLP75w==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Delete this file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path fill-rule="evenodd" d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"/></svg>
